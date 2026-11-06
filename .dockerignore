@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.git
+.github
+.aws
+.env
+Dockerfile
+.dockerignore
+README.md
+deploy.sh
