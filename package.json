@@ -1,0 +1,8 @@
+{
+  "name": "topnet-vless-proxy",
+  "version": "25.6.9",
+  "description": "VLESS WS-TLS proxy - CodePipeline Express + DPDNS + LE cert",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "ws": "^8.16.0" }
+}
